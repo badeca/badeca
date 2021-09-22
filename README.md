@@ -9,7 +9,6 @@
 
 </div>
 
-[![Github](https://img.shields.io/badge/-Github-41414d?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/badeca)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-holanda135/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gchf@cin.ufpe.br)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/gabriela.bady/)
