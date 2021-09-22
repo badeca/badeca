@@ -2,10 +2,12 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriela Freitas</h1>
 
 - 🌱 I’m currently learning HTML, CSS and Javascript
-
+  
 <div align="center">
+  
+![Badeca's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badeca&hide=assembly&layout=compact&show_icons=true&hide_border=false&theme=tokyonight&title_color=2ED3EA)
 
-![Badeca's github stats](https://github-readme-stats.vercel.app/api?username=badeca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px> -->
+![Badeca's github stats](https://github-readme-stats.vercel.app/api?username=badeca&show_icons=true&hide_border=false&theme=tokyonight&title_color=2ED3EA) <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px> -->
 
 </div>
 
