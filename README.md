@@ -1,7 +1,7 @@
 <div style="background: #1A1F2C; color:#27C1B6; padding: 18px; border-radius: 16px">
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriela Freitas</h1>
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently a Data engineer 
   
 <div align="center">
   
